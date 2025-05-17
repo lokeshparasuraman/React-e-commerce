@@ -2,7 +2,6 @@
 
 nxtTrendz is a React-based e-commerce web application featuring a range of products with filtering and sorting options. This project integrates with APIs for dynamic product data and user authentication.
 
-![nxtTrendz](https://assets.ccbp.in/frontend/react-js/nxt-trendz-logo-img.png)
 
 ## 🚀 Deployment
 
