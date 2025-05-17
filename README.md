@@ -48,5 +48,5 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Kannan-Selvaraj-45/React-e-commerce.git
+   git clone https://github.com/lokeshparasuraman/React-e-commerce
 
